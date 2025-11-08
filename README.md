@@ -1,5 +1,4 @@
 # Projet
-````markdown
 # Analyse des Produits et des Ventes
 
 Ce projet consiste en une **analyse exploratoire des données produits** d'un fichier csv sur les ventes de différents produits Amazon.
