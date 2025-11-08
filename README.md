@@ -3,6 +3,7 @@
 
 Ce projet consiste en une **analyse exploratoire des données produits** d'un fichier csv sur les ventes de différents produits Amazon.
 Lien du dataset disponible sur Kaggle: https://www.kaggle.com/datasets/spypsc07/amazon-products
+
 L'objectif est de **comprendre les tendances dans les données**, détecter des corrélations et visualiser les distributions par catégorie.
 C'est une première étape pour moi dans l'optique de maîtriser des concepts de l'IA, pour l'instant je ne fais que manipuler un fichier csv mais plus tard je serais capable de créer des prédictions par exemple ou autres trucs avancés et cool que la puissance des bibliothèques permettent.
 
