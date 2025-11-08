@@ -2,6 +2,7 @@
 # Analyse des Produits et des Ventes
 
 Ce projet consiste en une **analyse exploratoire des données produits** d'un fichier csv sur les ventes de différents produits Amazon.
+
 Lien du dataset disponible sur Kaggle: https://www.kaggle.com/datasets/spypsc07/amazon-products
 
 L'objectif est de **comprendre les tendances dans les données**, détecter des corrélations et visualiser les distributions par catégorie.
@@ -23,7 +24,7 @@ C'est une première étape pour moi dans l'optique de maîtriser des concepts de
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/<votre-username>/Projet.git
+git clone https://github.com/<ericdamesin7>/Projet.git
 ````
 
 2. Installer les dépendances (si nécessaire) :
@@ -47,9 +48,9 @@ jupyter notebook analyse_produits.ipynb
 ```
 Projet/
 │
-├── amazon.ipynb   # Notebook principal avec toutes les analyses
-├── README.md                # Ce fichier
-└── amazon_product.csv       # le tableur, dans le même dossier que amazon.ipynb
+├── amazon.ipy            # Notebook principal avec toutes les analyses
+├── README.md             # Ce fichier
+└── amazon_product.csv    # le tableur, dans le même dossier que amazon.ipynb
 ```
 
 ---
@@ -67,7 +68,7 @@ Projet/
 
 ## Auteur
 
-* [Votre Nom](https://github.com/ericdamesin7)
+* [Eric Damesin](https://github.com/ericdamesin7)
 * Ce projet fait partie de mon apprentissage en **analyse de données et visualisation**.
 
 Voici quelques visualisations de ce projet :
